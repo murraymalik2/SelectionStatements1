@@ -1,0 +1,14 @@
+C:\Users\murra\desktop\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.exe
+C:\Users\murra\desktop\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.deps.json
+C:\Users\murra\desktop\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.json
+C:\Users\murra\desktop\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.dev.json
+C:\Users\murra\desktop\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\murra\desktop\repos\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\murra\desktop\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.AssemblyReference.cache
+C:\Users\murra\desktop\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murra\desktop\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\murra\desktop\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfo.cs
+C:\Users\murra\desktop\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\murra\desktop\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\murra\desktop\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\murra\desktop\repos\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache
